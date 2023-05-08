@@ -1,0 +1,34 @@
+bash --> mksh
+autoconf
+glibc --> musl libexecinfo
+libstdc++ --> libc++
+libgcc --> libunwind compiler-rt
+bison --> byacc
+gcoreutils --> busybox
+make + cmake + bmake
+gcc --> clang llvm
+ninja
+gm4 --> openbsd m4
+ncurses --> netbsd-curses
+pkg-config pkgconf
+e2fsprogs 
+dejagnu --> expect check
+gawk --> mawk
+GDBM --> berkeley db
+gettext --> gettext-tiny
+zlib --> zlib-ng
+openssl --> libressl
+intltool
+iproute2
+kbd 
+kmod
+libcap
+libpipeline
+man-db --> man-pages
+procps
+psmisc 
+python
+tcl
+timezone data
+util-linux 
+wheel
