@@ -1,34 +1,36 @@
-bash --> mksh
 autoconf
-glibc --> musl libexecinfo
-libstdc++ --> libc++
-libgcc --> libunwind compiler-rt
-bison --> byacc
-gcoreutils --> busybox
-make + cmake + bmake
-gcc --> clang llvm
-ninja
-gm4 --> openbsd m4
-ncurses --> netbsd-curses
-pkg-config pkgconf
-e2fsprogs 
+bash --> mksh
+binutils --> lld
+bison -> byacc
 dejagnu --> expect check
+e2fsprogs
 gawk --> mawk
+gcoreutils --> busybox
+gcc --> clang llvm
 GDBM --> berkeley db
 gettext --> gettext-tiny
-zlib --> zlib-ng
-openssl --> libressl
-intltool
+gm4 --> openbsd m4
+gmake + cmake + bmake
+glibc + musl libexecinfo
+inltltool
 iproute2
-kbd 
+kbd
 kmod
 libcap
+libgcc --> libunwind compiler-rt
 libpipeline
+libstdc++ --> libc++
 man-db --> man-pages
+meson
+ncurses --> netbsd-curses
+ninja
+openssl --> libressl
+pkg-config --> pkgconf
 procps
-psmisc 
+psmisc
 python
+util-linux
 tcl
-timezone data
-util-linux 
+timezone-data
 wheel
+zlib --> zlib-ng
