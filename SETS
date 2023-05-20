@@ -1,0 +1,4 @@
+init: hummingbird
+shells: busybox ash
+coreutils: busybox
+libc: musl
