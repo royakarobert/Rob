@@ -1,4 +1,2 @@
-# robert-linux
-yajwld rebirth,built entirely from scratch
-
-# YAJWLD IS DEAD 
+# BuildRoot i486
+My BuildRoot Config On i486
